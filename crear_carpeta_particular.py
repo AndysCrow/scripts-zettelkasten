@@ -7,7 +7,7 @@ from pathlib import Path
 # CONFIGURACIÓN DEL USUARIO (CÁMBIALO AQUÍ)
 # ============================================================
 # Ruta a la raíz de tu bóveda de Obsidian
-RUTA_BOVEDA = Path("/home/andres-crow/Obsidian") # <--- CAMBIA ESTO
+RUTA_BOVEDA = Path("/home/andres-crow/Obsidian") 
 
 # Nombre del archivo de la nota semilla (ej: "202603112112" o "202603112112.md")
 NOMBRE_NOTA_SEMILLA = "202603112112" 
