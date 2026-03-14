@@ -10,7 +10,7 @@ from pathlib import Path
 RUTA_BOVEDA = Path("/home/andres-crow/Obsidian") # <--- CAMBIA ESTO
 
 # Nombre del archivo de la nota semilla (ej: "202603112112" o "202603112112.md")
-NOMBRE_NOTA_SEMILLA = "202603112112" # <--- CAMBIA ESTO
+NOMBRE_NOTA_SEMILLA = "202603112112" 
 
 # Niveles de profundidad máximos (1 = solo enlaces directos, 2 = enlaces de los enlaces, etc.)
 PROFUNDIDAD_MAXIMA = 5
